@@ -1,0 +1,1 @@
+export const getIIIFImageURL = (identifier: string): string => `https://www.artic.edu/iiif/2/${identifier}/full/200,/0/default.jpg`
